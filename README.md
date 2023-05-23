@@ -9,7 +9,7 @@
 - k-Neirest Neighbors (kNN)
 - Decision Trees (D-Trees)
 
-> ### Classification algorithms used:
+> ### Clustering algorithms used:
 - k-means
 - Hierarchical clustering
 - DBSCAN
