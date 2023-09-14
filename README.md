@@ -1,4 +1,7 @@
 ## Costumers' Churn Rate Investigation of a Telecommunication Company
+
+<img src="Saved-Figures/Background of Project.png" width="800">
+
 > ### Investigation's Characteristics:
 - Programming language: **Python** using **scikit-learn**
 - Software/Program: **Visual Studio Code**
